@@ -5,12 +5,11 @@
 */
 
 html {
-    font-size: 16px;
-    line-height: 1.5;
-    font family: "Helvetica Neue", Helvetica, arial, sans-serif;
-    color: #111;
-    padding: 24px 24px 0;
-
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+  color: #111;
+  padding: 24px 24px 0;
 }
 
 /*
@@ -21,19 +20,13 @@ html {
  */
 
 ::-moz-selection {
-
 }
 
 ::selection {
-    background-color: #44c8f5;
-    color: #white;
-
-
+  background-color: #44c8f5;
+  color: white;
 }
 
-body{
-    background-color: #bada55;
-}
 
 /*
     Elements: Images
@@ -42,6 +35,5 @@ body{
 */
 
 img {
-    max-width: 100%;
-
+  max-width: 100%;
 }
